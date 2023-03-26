@@ -1,0 +1,3 @@
+In Python you can mutate as much information as you want.
+you can join of information. and
+model real-world situations by using this simple interpreter language.
