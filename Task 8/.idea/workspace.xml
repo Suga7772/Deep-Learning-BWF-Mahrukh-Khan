@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c5f94d9-499f-46ee-8997-2189f503f708" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/Task 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/Statments Try-It-Yourself.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/User Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/conditional_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/if statements with Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/if statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/time code lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/time code loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 5/timing code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 6/6-7 onwards Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 6/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 6/Looping in Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 6/nesting in dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/8-3 8-4 8-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/Function and loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/Passing List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/Try it yourself.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/maketh_pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/makin_pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/passing values in functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/printing_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 7/return values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-13 Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-6 9-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-8 9-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TRY IT YOURSELF 1, 23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NYXWfKewOOqdh836a0THHPIY87" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahrukh Khan\Deep-Learning-BWF-Mahrukh-Khan\Task 8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.9-14">
+    <configuration name="9-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-13 Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-13 Dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Task 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.9-14" />
+        <item itemvalue="Python.9-13 Dict" />
+        <item itemvalue="Python.9-12" />
+        <item itemvalue="Python.9-11" />
+        <item itemvalue="Python.9-10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c5f94d9-499f-46ee-8997-2189f503f708" name="Changes" comment="" />
+      <created>1679842021194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679842021194</updated>
+    </task>
+    <servers />
+  </component>
+</project>
