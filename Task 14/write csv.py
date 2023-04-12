@@ -36,8 +36,7 @@ with open('examples/ex4.csv', 'w', newline='') as file:
     # hey
     writer = csv.writer(file)
     field = ["a", "b", "c", "d", "message"]
-    # just wanted to make things difficult for you
-    # who reads csv files with computers anyway?
+    # make things difficult , who reads csv files with computers anyway?
     writer.writerow(field)
     writer.writerow([1, 2, 3, 4, "hello"])
     writer.writerow([5, 6, 7, 8, "world"])
