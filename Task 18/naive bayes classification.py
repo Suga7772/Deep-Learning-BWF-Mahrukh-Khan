@@ -11,7 +11,6 @@
 # Cons :  zero frequency fail , its solution is laplace estimation
 # known as bad estimator , independent predictor asumption ( in real life scenarios its highly unlikely it would ascertain)
 
-# lettuce implement
 
 from pydataset import data
 import pandas as pd
@@ -28,8 +27,8 @@ X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3, random_
 
 # model training
 cld = GaussianNB()
-# cld.fit(X_train, Y_train)
+cld.fit(X_train, Y_train)
 
 # model evaluation using classification
 y_pred = cld.fit(X_train, Y_train).predict(X_test)
-print(classification_report(Y_test, y_pred))        # number snot gud, accuracy bad 51%
+print(classification_report(Y_test, y_pred))        
